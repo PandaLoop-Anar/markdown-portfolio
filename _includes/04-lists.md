@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. Nayini
+2. Vashli
+3. Sazamtro
+
+* 	:heart:
+* 	🥇
+* 	🇬🇪
