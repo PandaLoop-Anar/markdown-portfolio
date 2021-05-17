@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*didi fontis zoma*
+**upro didi**
+_daxra_
+__upro daxra__
